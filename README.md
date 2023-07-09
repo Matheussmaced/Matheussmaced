@@ -1,4 +1,4 @@
-Descrição:
+
 Olá! Sou um estudante dedicado de Engenharia de Software em busca de oportunidades para aprender, colaborar e aprimorar minhas habilidades no desenvolvimento de software. Com uma paixão pela tecnologia e pela resolução de problemas complexos, estou comprometido em me tornar um profissional altamente qualificado nesta área em constante evolução.
 
 🎓 Formação Acadêmica:
