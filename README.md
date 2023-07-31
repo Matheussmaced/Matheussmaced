@@ -8,7 +8,7 @@ Atualmente, estou cursando Engenharia de Software na Universidade norte do paran
 Embora esteja no início da minha carreira, estou ansioso para aplicar o conhecimento adquirido em projetos práticos. Já participei de projetos de equipe durante meus estudos, o que me permitiu aprender sobre colaboração, organização e boas práticas de desenvolvimento de software. Além disso, estou constantemente buscando oportunidades de aprendizado, como cursos online e workshops, para expandir meu conjunto de habilidades.
 
 💻 Habilidades Técnicas:
-Tenho experiência em HTML5, CSS3 e JavaScript e estou aprendendo sobre React.js
+Tenho experiência em HTML5, CSS3, JavaScript e estou aprendendo sobre React.js
 
 🌟 Objetivos:
 Meu objetivo é me tornar um engenheiro de software altamente qualificado e contribuir para projetos inovadores. Procuro oportunidades de estágio ou trabalho de meio período para ganhar experiência prática e continuar aprendendo com profissionais da área. Estou entusiasmado em fazer parte de uma equipe dinâmica, onde possa colaborar, aprender e crescer profissionalmente.
