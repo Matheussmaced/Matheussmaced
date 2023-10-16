@@ -7,11 +7,16 @@ Atualmente, estou cursando Engenharia de Software na Universidade norte do paran
 💼 Experiência:
 Embora esteja no início da minha carreira, estou ansioso para aplicar o conhecimento adquirido em projetos práticos. Já participei de projetos de equipe durante meus estudos, o que me permitiu aprender sobre colaboração, organização e boas práticas de desenvolvimento de software. Além disso, estou constantemente buscando oportunidades de aprendizado, como cursos online e workshops, para expandir meu conjunto de habilidades.
 
-💻 Habilidades Técnicas:
-Tenho experiência em HTML5, CSS3, Styled Components JavaScript, TypeScript, React.JS
-
 🌟 Objetivos:
 Meu objetivo é me tornar um engenheiro de software altamente qualificado e contribuir para projetos inovadores. Procuro oportunidades de estágio ou trabalho de meio período para ganhar experiência prática e continuar aprendendo com profissionais da área. Estou entusiasmado em fazer parte de uma equipe dinâmica, onde possa colaborar, aprender e crescer profissionalmente.
+
+💻 Habilidades Técnicas:
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" /> 
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 
 📫 Contato:
 Estou sempre aberto a conexões e oportunidades de colaboração. Você pode entrar em contato comigo por meio do meu perfil do GitHub ou pelo e-mail mateusbyakuya3@gmail.com.
