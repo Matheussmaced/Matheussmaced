@@ -17,7 +17,6 @@ Meu objetivo é me tornar um engenheiro de software altamente qualificado e cont
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" height="40"/>
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstyled-components.com%2Fdocs%2Fapi&psig=AOvVaw2-jtLa5mfkNoJY8PCmnJC3&ust=1697570899384000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCKDqrcWm-4EDFQAAAAAdAAAAABAQ" width="40" height="40"/>
 
 📫 Contato:
 Estou sempre aberto a conexões e oportunidades de colaboração. Você pode entrar em contato comigo por meio do meu perfil do GitHub ou pelo e-mail mateusbyakuya3@gmail.com.
