@@ -10,7 +10,7 @@ Embora esteja no início da minha carreira, estou ansioso para aplicar o conheci
 Meu objetivo é me tornar um engenheiro de software altamente qualificado e contribuir para projetos inovadores. Procuro oportunidades de estágio ou trabalho de meio período para ganhar experiência prática e continuar aprendendo com profissionais da área. Estou entusiasmado em fazer parte de uma equipe dinâmica, onde possa colaborar, aprender e crescer profissionalmente.<br>
 
 ## 💻 Habilidades Técnicas:<br><br>
-```Linguagens```<br><br>
+```Languages```<br><br>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" height="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" height="40"/>
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" height="40"/>
