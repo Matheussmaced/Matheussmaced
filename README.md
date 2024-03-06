@@ -1,5 +1,5 @@
 <!-- Seção de Introdução -->
-# Olá! Eu sou o Mateus Macedo 👋
+# Olá! Eu sou o Matheus Gregorio 👋
 
 Sou um estudante dedicado de Engenharia de Software apaixonado por resolver problemas complexos e aprender constantemente. Atualmente estou cursando Engenharia de Software na Universidade Norte do Paraná (UNOPAR), buscando me tornar um profissional altamente qualificado em constante evolução.
 
@@ -7,30 +7,30 @@ Sou um estudante dedicado de Engenharia de Software apaixonado por resolver prob
 ## 🚀 Habilidades e Tecnologias
 
 ### Linguagens
-![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg)
-![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg)
-![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg)
-![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg)
-![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg)
+![Git](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg){ width=40 height=40 }
+![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg){ width=40 height=40 }
+![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg){ width=40 height=40 }
+![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg){ width=40 height=40 }
+![Java](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg){ width=40 height=40 }
 
 ### Frameworks
-![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg)
-![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg)
-![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg)
+![React](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg){ width=40 height=40 }
+![Next.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nextjs/nextjs-original.svg){ width=40 height=40 }
+![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg){ width=40 height=40 }
 
 ### Estilização
-![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg)
-![Styled Components](https://skillicons.dev/icons?i=styledcomponents)
+![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg){ width=40 height=40 }
+![Styled Components](https://skillicons.dev/icons?i=styledcomponents){ width=40 height=40 }
 
 ### Banco de Dados
-![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg)
-![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)
+![SQLite](https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg){ width=40 height=40 }
+![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg){ width=40 height=40 }
 
 ### Ferramentas
-![Vite.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg)
-![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg)
-![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg)
-![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg)
+![Vite.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg){ width=40 height=40 }
+![Docker](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg){ width=40 height=40 }
+![Insomnia](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/insomnia/insomnia-original.svg){ width=40 height=40 }
+![Prisma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg){ width=40 height=40 }
 
 ## 💼 Experiência
 
@@ -47,3 +47,4 @@ Estou sempre aberto a conexões e oportunidades de colaboração. Você pode ent
 Agradeço por visitar o meu perfil e estou ansioso para compartilhar minha paixão pela Engenharia de Software e aprender com outros profissionais talentosos.
 
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matheussmaced&show_icons=true&theme=radical)
+
