@@ -43,4 +43,8 @@ Matheussmaced/Matheussmaced is a ✨ special ✨ repository because its `README.
 You can click the Preview link to take a look at your changes.
 --->
 
-![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Matheussmaced&show_icons=true&theme=radical)
+<div>
+<a href="https://github.com/Matheussmaced">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seu-usuário-aqui&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=seu-usuário-aqui&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
