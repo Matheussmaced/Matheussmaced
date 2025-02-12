@@ -8,8 +8,6 @@ Atuando há quase um ano na área de desenvolvimento de software, tenho trabalha
 
 ## 🌟 Objetivos:<br>
 Meu objetivo é me tornar um engenheiro de software altamente qualificado e contribuir para projetos inovadores. Procuro oportunidades de estágio ou trabalho de meio período para ganhar experiência prática e continuar aprendendo com profissionais da área. Estou entusiasmado em fazer parte de uma equipe dinâmica, onde possa colaborar, aprender e crescer profissionalmente.<br>
-
-💻 Habilidades Técnicas:<br>
 🖥️ Linguagens:
 <table>
   <tr>
@@ -48,6 +46,7 @@ Meu objetivo é me tornar um engenheiro de software altamente qualificado e cont
     <td>
       <img src="https://skillicons.dev/icons?i=styledcomponents" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="40" height="40" />
     </td>
   </tr>
   <tr>
@@ -57,6 +56,7 @@ Meu objetivo é me tornar um engenheiro de software altamente qualificado e cont
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mariadb/mariadb-original-wordmark.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="40" height="40" />
+      <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original-wordmark.svg" width="40" height="40" />
     </td>
   </tr>
   <tr>
