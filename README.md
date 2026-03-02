@@ -52,7 +52,8 @@ Aplico padrões como **Service Layer**, **Dependency Injection**, **DTOs/Form Re
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" width="40" height="40" />
       <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/junit/junit-original-wordmark.svg" width="50" height="50" />
-    </td>
+            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nestjs/nestjs-original.svg" width="50" height="50" />
+  </td>
   </tr>
   <tr>
     <td>🎨 <b>Estilização:</b></td>
