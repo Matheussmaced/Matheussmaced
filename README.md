@@ -1,13 +1,16 @@
-## Olá! Sou um estudante dedicado de Engenharia de Software em busca de oportunidades para aprender, colaborar e aprimorar minhas habilidades no desenvolvimento de software. Com uma paixão pela tecnologia e pela resolução de problemas complexos, estou comprometido em me tornar um profissional altamente qualificado nesta área em constante evolução.<br>
+<div align="center">
 
-## 🎓 Formação Acadêmica:<br>
-Atualmente, estou cursando Engenharia de Software na Universidade norte do paraná (UNOPAR). Estou empenhado em adquirir um sólido conhecimento teórico e prático em diversas áreas, como estruturas de dados, algoritmos, programação orientada a objetos, desenvolvimento web e mobile, bancos de dados e engenharia de software.<br>
+# Matheus Gregorio
 
-## 💼 Experiência:<br>
-Atuando há quase um ano na área de desenvolvimento de software, tenho trabalhado em diversos projetos para diferentes empresas, incluindo sistemas de cardápio online, sistemas financeiros e sistemas de registros, entre outros. Minha experiência em projetos práticos me permitiu aprimorar minhas habilidades em colaboração, organização e boas práticas de desenvolvimento. Além disso, estou sempre buscando aprendizado contínuo por meio de cursos online e workshops, a fim de expandir meu conhecimento e me manter atualizado com as melhores tecnologias do mercado.<br>
+**Fullstack Developer — Node.js · NestJS · Angular · React · TypeScript**
 
-## 🌟 Objetivos:<br>
-Meu objetivo é me tornar um engenheiro de software altamente qualificado e contribuir para projetos inovadores. Procuro oportunidades de estágio ou trabalho de meio período para ganhar experiência prática e continuar aprendendo com profissionais da área. Estou entusiasmado em fazer parte de uma equipe dinâmica, onde possa colaborar, aprender e crescer profissionalmente.
+Desenvolvedor fullstack com experiência em projetos reais para empresas e freelancers.
+Foco em APIs REST bem estruturadas, frontends tipados e boas práticas de arquitetura.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusgregoriodev)
+[![Gmail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:mateusbyakuya3@gmail.com)
+
+</div>
 
 <br>
 <table>
