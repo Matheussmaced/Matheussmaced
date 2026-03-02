@@ -10,6 +10,14 @@ Foco em APIs REST bem estruturadas, frontends tipados e boas práticas de arquit
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matheusgregoriodev)
 [![Gmail](https://img.shields.io/badge/Email-EA4335?logo=gmail&logoColor=white)](mailto:mateusbyakuya3@gmail.com)
 
+### Sobre
+
+Graduando em Engenharia de Software pela UNOPAR (conclusão 2026). Atuo como desenvolvedor fullstack em projetos freelance, construindo sistemas de gestão, dashboards administrativos, e-commerces e APIs REST para diferentes empresas.
+
+Aplico padrões como **Service Layer**, **Dependency Injection**, **DTOs/Form Requests**, validação desacoplada e componentização tipada no frontend. Trabalho com Docker em todos os projetos.
+
+---
+
 </div>
 
 <br>
